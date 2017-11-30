@@ -1,4 +1,4 @@
 # chess_demo
-Computational Intelligence
+Computational Intelligence.
 
-Run the file chess_gui.m in Matlab enviroment to open the program.
+Run the file chess_gui.m in Matlab environment to open the program.
